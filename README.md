@@ -31,3 +31,22 @@ git push                 # Envoyer sur GitHub
 git add README.md
 git commit -m "Correction bloc code dans le README"
 git push
+
+---
+
+## Compétences Git & GitHub maîtrisées
+
+-  Initialisation d’un dépôt Git (`git init`)
+- Ajout de fichiers (`git add`)
+-  Création de versions avec des messages (`git commit -m`)
+-  Lien avec un dépôt GitHub (`git remote add origin`)
+-  Envoi du projet en ligne (`git push`)
+-  Création d’un fichier `README.md` en Markdown
+-  Navigation dans l’interface GitHub
+-  Création de branche (`git checkout -b nom`)
+-  Commit dans une branche séparée
+-  Fusion de branche dans `main` (`git merge`)
+-  Push final de la branche fusionnée
+
+>  Objectif : pratiquer ces commandes dans plusieurs petits projets jusqu’à ce que tout soit **mémorisé et automatique** 
+
